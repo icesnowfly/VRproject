@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de5980f2-1acd-4fe0-a1c1-0dd94b23841c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.VR/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.VR/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.VR/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.VR/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.VR/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_solid.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_solid.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_transparent.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_transparent.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/CustomHands/Models/HandMaterial.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/CustomHands/Models/HandMaterial.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Usage/DistanceGrab/Materials/TriangleCursorUntargeted.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Usage/DistanceGrab/Materials/TriangleCursorUntargeted.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Oculus.VR.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Oculus.VR.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Oculus.VR.Scripts.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Oculus.VR.Scripts.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Oculus.VR.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Oculus.VR.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/ae38f7-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/ae38f7-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/36/3637b758ff163493f8bb8b6d7e96d7ae.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/36/3637b758ff163493f8bb8b6d7e96d7ae.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/76/766bb65e1129a4712a168c459298b449.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/76/766bb65e1129a4712a168c459298b449.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.VR.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.VR.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.VR.Scripts.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.VR.Scripts.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.VR.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.VR.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VR.sln" beforeDir="false" afterPath="$PROJECT_DIR$/VR.sln" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DistanceGrabbable.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/DistanceGrab/Scripts/DistanceGrabbable.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <marker date="1560895995000" expanded="true" signature="0:577" ph="/* Copyright (c) Facebook Technologies, LLC and its affiliates. All rights reserved. ... */" />
+                <marker date="1560895995000" expanded="false" signature="585:633" ph="..." />
+                <marker date="1560895995000" expanded="true" signature="666:3151" ph="{...}" />
+                <marker date="1560895995000" expanded="true" signature="718:3149" ph="{...}" />
+                <marker date="1560895995000" expanded="true" signature="945:1118" ph="{...}" />
+                <marker date="1560895995000" expanded="true" signature="1009:1108" ph="{...}" />
+                <marker date="1560895995000" expanded="true" signature="1172:1347" ph="{...}" />
+                <marker date="1560895995000" expanded="true" signature="1237:1337" ph="{...}" />
+                <marker date="1560895995000" expanded="true" signature="1413:1862" ph="{...}" />
+                <marker date="1560895995000" expanded="true" signature="1895:2800" ph="{...}" />
+                <marker date="1560895995000" expanded="true" signature="1934:2302" ph="{...}" />
+                <marker date="1560895995000" expanded="true" signature="2348:2790" ph="{...}" />
+                <marker date="1560895995000" expanded="true" signature="2848:2978" ph="{...}" />
+                <marker date="1560895995000" expanded="true" signature="3012:3143" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/DistanceGrab/Scripts/DistanceGrabbable.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="255" />
+    <option name="y" value="20" />
+    <option name="width" value="1460" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="VR" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de5980f2-1acd-4fe0-a1c1-0dd94b23841c" name="Default" comment="" />
+      <created>1561791355587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561791355587</updated>
+      <workItem from="1561791363720" duration="976000" />
+      <workItem from="1561792363291" duration="386000" />
+      <workItem from="1561792768669" duration="115000" />
+      <workItem from="1561793319794" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1526000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="204" y="16" width="1168" height="824" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.32605532" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16666667" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/DistanceGrab/Scripts/DistanceGrabbable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1560895995000" expanded="true" signature="0:577" ph="/* Copyright (c) Facebook Technologies, LLC and its affiliates. All rights reserved. ... */" />
+            <marker date="1560895995000" expanded="false" signature="585:633" ph="..." />
+            <marker date="1560895995000" expanded="true" signature="666:3151" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="718:3149" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="945:1118" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="1009:1108" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="1172:1347" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="1237:1337" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="1413:1862" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="1895:2800" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="1934:2302" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="2348:2790" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="2848:2978" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="3012:3143" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/DistanceGrab/Scripts/DistanceGrabbable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1560895995000" expanded="true" signature="0:577" ph="/* Copyright (c) Facebook Technologies, LLC and its affiliates. All rights reserved. ... */" />
+            <marker date="1560895995000" expanded="false" signature="585:633" ph="..." />
+            <marker date="1560895995000" expanded="true" signature="666:3151" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="718:3149" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="945:1118" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="1009:1108" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="1172:1347" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="1237:1337" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="1413:1862" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="1895:2800" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="1934:2302" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="2348:2790" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="2848:2978" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="3012:3143" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/DistanceGrab/Scripts/DistanceGrabbable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1560895995000" expanded="true" signature="0:577" ph="/* Copyright (c) Facebook Technologies, LLC and its affiliates. All rights reserved. ... */" />
+            <marker date="1560895995000" expanded="false" signature="585:633" ph="..." />
+            <marker date="1560895995000" expanded="true" signature="666:3151" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="718:3149" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="945:1118" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="1009:1108" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="1172:1347" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="1237:1337" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="1413:1862" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="1895:2800" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="1934:2302" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="2348:2790" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="2848:2978" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="3012:3143" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/DistanceGrab/Scripts/DistanceGrabbable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <marker date="1560895995000" expanded="true" signature="0:577" ph="/* Copyright (c) Facebook Technologies, LLC and its affiliates. All rights reserved. ... */" />
+            <marker date="1560895995000" expanded="false" signature="585:633" ph="..." />
+            <marker date="1560895995000" expanded="true" signature="666:3151" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="718:3149" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="945:1118" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="1009:1108" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="1172:1347" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="1237:1337" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="1413:1862" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="1895:2800" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="1934:2302" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="2348:2790" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="2848:2978" ph="{...}" />
+            <marker date="1560895995000" expanded="true" signature="3012:3143" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
