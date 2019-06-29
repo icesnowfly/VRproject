@@ -1,0 +1,12 @@
+<Animal>
+  <Animal1>
+    <id>1</id>
+    <name>Deer</name>
+    <health>100</health>
+  </Animal1>
+  <Animal2>
+    <id>2</id>
+    <name>Bear</name>
+    <health>200</health>
+  </Animal2>
+</Animal>

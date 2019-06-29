@@ -88,7 +88,8 @@ namespace OculusSampleFramework
             // Note that there's no major downside to making this value too high, as objects
             // outside the player's grabbable trigger volume will not be eligible targets regardless.
             SphereCollider sc = m_player.GetComponentInChildren<SphereCollider>();
-            m_maxGrabDistance = sc.radius + 3.0f;
+            if (sc != null)
+                m_maxGrabDistance = sc.radius + 3.0f;
 
             if(m_parentHeldObject == true)
             {
@@ -121,7 +122,7 @@ namespace OculusSampleFramework
             {
                 if (m_target != null)
                 {
-                    m_target.Targeted = m_otherHand.m_target == m_target;
+                    m_target.Targeted = (m_otherHand.m_target == m_target);
                 }
                 if(m_target != null)
                     m_target.ClearColor();
